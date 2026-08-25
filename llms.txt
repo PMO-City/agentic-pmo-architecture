@@ -1,0 +1,23 @@
+# Agentic PMO Reference Architecture
+
+> PMO City's public v1.0 reference architecture for a governed operating model in which humans and AI turn organizational intent into coordinated execution.
+
+## Read first
+
+- [README](README.md): scope, nine-step loop, and public status.
+- [Overview](architecture/v1.0/overview.md): definition, problem, and audience.
+- [Operating model](architecture/v1.0/operating-model.md): nine-step continuous loop.
+- [Worked example](examples/mandate-to-learning.md): mandate-to-learning scenario.
+
+## Architecture
+
+- [Canonical model](architecture/v1.0/canonical-model.md): stable concepts and boundaries.
+- [Human–AI governance](architecture/v1.0/human-ai-governance.md): capability, permission, authority, execution, and accountability.
+- [Conformance](architecture/v1.0/conformance.md): scoped evidence-based claims.
+- [Glossary](architecture/v1.0/glossary.md): concise definitions.
+
+## Governance
+
+- [Publication contract](PUBLICATION.md): how the public edition is produced.
+- [Governance](GOVERNANCE.md): stewardship, review, and version control.
+- [v1.0 release notes](releases/v1.0.md): scope, provenance, and limitations.

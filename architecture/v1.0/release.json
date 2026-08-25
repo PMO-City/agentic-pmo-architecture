@@ -1,0 +1,27 @@
+{
+  "schema": "pmocity.agentic-pmo.public-release/v1",
+  "public_version": "1.0",
+  "status": "public-review-release",
+  "steward": "PMO City",
+  "internal_source_version": "PMO City Architecture v1.2.1",
+  "treatment": "curated-explanatory-edition",
+  "normative_status": "not-independent-normative-source",
+  "scope": [
+    "definition",
+    "nine-step-operating-model",
+    "canonical-model",
+    "human-ai-governance",
+    "worked-example",
+    "conformance-guide",
+    "glossary"
+  ],
+  "omissions": [
+    "internal-numbered-requirements",
+    "private-implementation-detail",
+    "private-architecture-decisions",
+    "private-review-records",
+    "certification-authority"
+  ],
+  "source_identity": "recorded in PMO City internal publication records",
+  "release_notes": "../../releases/v1.0.md"
+}
