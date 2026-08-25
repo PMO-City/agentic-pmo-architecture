@@ -1,6 +1,6 @@
 # Agentic PMO Reference Architecture
 
-> PMO City's public v1.0 reference architecture for a governed operating model in which humans and AI turn organizational intent into coordinated execution.
+> PMO City's canonical public reference architecture for a governed operating model in which humans and AI turn organizational intent into coordinated execution.
 
 ## Read first
 
@@ -18,6 +18,6 @@
 
 ## Governance
 
-- [Publication contract](PUBLICATION.md): how the public edition is produced.
+- [Publication contract](PUBLICATION.md): how the canonical public edition is maintained.
 - [Governance](GOVERNANCE.md): stewardship, review, and version control.
-- [v1.0 release notes](releases/v1.0.md): scope, provenance, and limitations.
+- [v1.0.1 release notes](releases/v1.0.1.md): scope, license, and limitations.

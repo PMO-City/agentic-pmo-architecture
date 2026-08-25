@@ -1,11 +1,10 @@
 {
   "schema": "pmocity.agentic-pmo.public-release/v1",
-  "public_version": "1.0",
-  "status": "public-review-release",
+  "public_version": "1.0.1",
+  "status": "canonical-public-release",
   "steward": "PMO City",
-  "internal_source_version": "PMO City Architecture v1.2.1",
-  "treatment": "curated-explanatory-edition",
-  "normative_status": "not-independent-normative-source",
+  "treatment": "canonical-public-edition",
+  "normative_status": "authoritative-for-public-edition-not-independent-standard",
   "scope": [
     "definition",
     "nine-step-operating-model",
@@ -22,6 +21,6 @@
     "private-review-records",
     "certification-authority"
   ],
-  "source_identity": "recorded in PMO City internal publication records",
-  "release_notes": "../../releases/v1.0.md"
+  "license": "CC BY 4.0",
+  "release_notes": "../../releases/v1.0.1.md"
 }

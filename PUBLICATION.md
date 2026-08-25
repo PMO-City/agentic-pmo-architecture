@@ -2,13 +2,13 @@
 
 ## Purpose
 
-This repository publishes a readable public edition of PMO City's Agentic PMO reference architecture. It is a curated publication, not a mirror of the private authoring repository and not a dump of the internal requirements manuscript.
+This repository is the canonical public publication of PMO City's Agentic PMO reference architecture. It is intentionally focused and readable; it is not a dump of an internal requirements manuscript.
 
 ## Source boundary
 
-The v1.0 public edition was prepared from the accepted PMO City Architecture v1.2.1 baseline. The public edition preserves the core meaning needed for public orientation while omitting internal implementation detail, exhaustive requirements, private deliberation, and material that has not been approved for public release.
+The public edition preserves the concepts, boundaries, operating model, examples, and conformance guidance approved for public use. It omits private implementation detail, exhaustive requirements, private deliberation, and material outside the public scope.
 
-The public repository does not make the internal source public. Internal source identity and checksums are retained in PMO City's publication records so that a future edition can be regenerated and reviewed against the same baseline.
+Future material may be prepared from private working documents, but the public repository is the maintained authority for the public edition. A private working document does not silently replace or revise a released public version.
 
 ## Editorial status
 
@@ -23,9 +23,7 @@ Public pages are explanatory unless they explicitly state otherwise. They may si
 ## Reproduction workflow
 
 ```text
-Internal architecture baseline
-        ↓
-Public-scope and omission map
+Public scope and omission map
         ↓
 Public narrative, definitions, and worked examples
         ↓
@@ -41,7 +39,6 @@ Public release tag
 Every public release should record:
 
 - the public version;
-- the internal source version;
 - the publication date;
 - the public scope and explicit omissions;
 - the generator or editorial process used;
@@ -50,10 +47,10 @@ Every public release should record:
 
 ## Versioning
 
-Public v1.0 is the first public reading edition. A patch release may correct wording, links, or presentation without changing public meaning. A minor release may add backward-compatible public explanations. A major release may change the public model or its interpretation and requires migration notes.
+Public v1.0 was the first public reading edition. Release v1.0.1 establishes the canonical public edition. A patch release may correct wording, links, licensing, or presentation without changing public meaning. A minor release may add backward-compatible public explanations. A major release may change the public model or its interpretation and requires migration notes.
 
-Public version numbers do not replace the internal architecture version. Each release identifies both.
+Public version numbers are the version authority for this repository. There is no second public version hidden behind an unpublished source.
 
 ## Public source of truth
 
-This repository is the source of truth for the public edition. The private PMO City architecture remains the source of truth for internal normative meaning, exact requirements, architecture decisions, and publication authorization.
+This repository is the source of truth for the public edition. PMO City remains responsible for architecture stewardship, review, publication decisions, and the boundaries of what is presented as public.

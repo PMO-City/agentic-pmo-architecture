@@ -2,13 +2,12 @@
 
 PMO City's public reference architecture for the Agentic PMO: a governed operating model that keeps organizational intent, execution, evidence, judgment, and learning connected while humans and AI work together.
 
-This repository is the public v1.0 reading edition. It is deliberately smaller and more practical than PMO City's internal architecture specification. It explains the model, gives a worked example, and defines the minimum ideas a reader needs before exploring implementation or conformance.
+This repository is PMO City's canonical public edition of the Agentic PMO reference architecture. It is deliberately focused and practical: it explains the model, gives a worked example, and defines the minimum ideas a reader needs before exploring implementation or conformance.
 
-**Status:** Public review release<br>
+**Status:** Canonical public release<br>
 **Steward:** PMO City<br>
-**Public version:** v1.0<br>
-**Internal source baseline:** PMO City Architecture v1.2.1<br>
-**Normative status:** This repository is explanatory. It is not an independent standard or certification authority.
+**Public version:** v1.0.1<br>
+**Normative status:** This repository is authoritative for the public edition. It is not an independent standards body or certification authority.
 
 ## Start here
 
@@ -52,16 +51,16 @@ This edition focuses on:
 
 It intentionally does not publish the internal requirements corpus, private implementation details, internal deliberations, or the complete technical specification.
 
-## Publication relationship
+## Publication status
 
-The public edition is produced from a pinned internal PMO City architecture baseline through a reviewed publication process. The internal source remains the authoritative source for architecture governance and exact requirements. Public pages must not silently redefine it.
+This repository is maintained as the public source for the Agentic PMO reference architecture. Its scope is deliberately limited to the public definition, operating model, canonical concepts, human–AI governance, worked examples, and conformance guidance. Private or unpublished material does not silently override a released public edition.
 
 See [PUBLICATION.md](PUBLICATION.md) for the publication contract and [GOVERNANCE.md](GOVERNANCE.md) for stewardship and change control.
 
 ## Review and challenge
 
-Thoughtful challenges are welcome. Open an issue when a definition is ambiguous, a boundary is missing, an example is misleading, or the public explanation does not match the stated architecture. A public discussion can improve the edition; it does not by itself change the internal architecture.
+Thoughtful challenges are welcome. Open an issue when a definition is ambiguous, a boundary is missing, an example is misleading, or the public explanation needs correction. A public discussion can improve the edition; an architecture change still requires the review and release process described in [GOVERNANCE.md](GOVERNANCE.md).
 
 ## License
 
-The public repository is visible while PMO City finalizes the documentation and example-asset license. Until a `LICENSE` file is added, do not assume that public visibility grants permission to redistribute or adapt the material.
+Documentation and examples in this repository are licensed under [CC BY 4.0](LICENSE). The license does not grant trademark rights or permission to imply PMO City endorsement, and future code or schemas may carry separate notices.
