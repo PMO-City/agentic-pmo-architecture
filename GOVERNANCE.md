@@ -6,6 +6,8 @@ PMO City stewards this public reference architecture. Stewardship means maintain
 
 The repository does not claim to be an independent standards body. It presents PMO City's reference architecture for the Agentic PMO and keeps its public claims proportionate to the evidence and governance available.
 
+This repository is the maintained source of truth for the public edition. Private working material may inform future proposals, but it does not silently change a released public version.
+
 ## Roles
 
 - **Steward:** PMO City, accountable for public release decisions.
@@ -24,7 +26,7 @@ Architecture review is required for changes to:
 - canonical concepts or their boundaries;
 - human and AI authority responsibilities;
 - evidence, state, learning, or conformance language;
-- versioning and source-boundary claims; or
+- versioning, public-scope, or source-boundary claims; or
 - a worked example that could change a reader's interpretation of the model.
 
 Editorial corrections, link fixes, accessibility improvements, and typo corrections can follow normal pull-request review but should still be checked for semantic drift.
@@ -39,4 +41,4 @@ An issue may challenge a definition, request evidence, identify an inconsistency
 
 ## Security and privacy
 
-Never commit credentials, tokens, private architecture files, private URLs, personal data, customer data, or internal deliberations. Report suspected secrets or security problems privately to the repository stewards rather than opening a public issue.
+Never commit credentials, tokens, private architecture files, private URLs, personal data, customer data, or internal deliberations. Follow [SECURITY.md](SECURITY.md) for suspected secrets or security problems rather than opening a public issue.

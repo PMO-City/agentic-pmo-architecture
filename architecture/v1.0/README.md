@@ -1,6 +1,7 @@
 # Agentic PMO public architecture v1.0
 
-This folder contains the first public reading edition of PMO City's Agentic PMO reference architecture.
+This folder contains the v1.0 content edition of PMO City's canonical public
+Agentic PMO reference architecture.
 
 Read in this order:
 
@@ -12,4 +13,6 @@ Read in this order:
 6. [Conformance](conformance.md)
 7. [Glossary](glossary.md)
 
-The edition is explanatory and public. It does not publish PMO City's internal requirements corpus or independently certify implementations.
+The edition is public and authoritative within the stated scope. It does not
+publish exhaustive internal requirements or independently certify
+implementations.

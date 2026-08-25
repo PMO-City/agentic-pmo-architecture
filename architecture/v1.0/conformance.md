@@ -72,7 +72,7 @@ An exception should identify the gap, owner, decision authority, risk, compensat
 
 ## Version awareness
 
-Claims are version-qualified. A public v1.0 claim should not silently be presented as a claim against a future public edition or the private internal architecture. A new public edition may require new evidence, compatibility treatment, or a new decision.
+Claims are version-qualified. A v1.0.1 claim should not silently be presented as a claim against a future public edition. A new public edition may require new evidence, compatibility treatment, or a new decision.
 
 ## What this guide does not do
 
