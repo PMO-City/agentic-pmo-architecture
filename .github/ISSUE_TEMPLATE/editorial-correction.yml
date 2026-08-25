@@ -1,0 +1,24 @@
+name: Editorial correction
+description: Typo, broken link, accessibility issue, or other public-documentation correction
+title: "[Editorial] "
+labels:
+  - editorial
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Do not include private source material, credentials, or confidential information.
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      description: File path, heading, or public URL
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Correction
+      description: Describe the issue and, if possible, the corrected wording.
+    validations:
+      required: true

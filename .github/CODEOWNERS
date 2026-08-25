@@ -1,0 +1,9 @@
+# Default review owner for the current PMO City public architecture release.
+# Replace this with a reviewer team when additional maintainers are appointed.
+* @tiangao88
+
+/architecture/ @tiangao88
+/examples/ @tiangao88
+GOVERNANCE.md @tiangao88
+PUBLICATION.md @tiangao88
+SECURITY.md @tiangao88

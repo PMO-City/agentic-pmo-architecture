@@ -1,0 +1,32 @@
+name: Architecture challenge
+description: Question or challenge about a definition, boundary, or architectural claim
+title: "[Architecture] "
+labels:
+  - architecture-review
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for a substantive question or challenge. Do not include
+        credentials, private source material, or confidential information.
+  - type: textarea
+    id: subject
+    attributes:
+      label: Subject
+      description: Which page, concept, or claim are you reviewing?
+    validations:
+      required: true
+  - type: textarea
+    id: concern
+    attributes:
+      label: Concern
+      description: What is ambiguous, inconsistent, incomplete, or misleading?
+    validations:
+      required: true
+  - type: textarea
+    id: suggested_change
+    attributes:
+      label: Suggested improvement
+      description: What change or evidence would make the public explanation stronger?
+    validations:
+      required: false
